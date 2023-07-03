@@ -1,0 +1,25 @@
+.pokemon-main {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+
+}
+
+button {
+    margin: 0;
+    padding: 10px;
+    background-color: wheat;
+    font-size: 1.5rem !important;
+}
+
+button:hover {
+    background-color: #333;
+    color: wheat;
+    cursor: pointer
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
